@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StockBankUI", "TemaBD_Banca_de_actiuni\StockBankUI.csproj", "{432953DE-073E-450C-8216-BB53B984B034}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StockBankLibrary", "StockBankLibrary\StockBankLibrary.csproj", "{1BE29838-3786-4C90-831D-4D0E37BED900}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{432953DE-073E-450C-8216-BB53B984B034}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{432953DE-073E-450C-8216-BB53B984B034}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{432953DE-073E-450C-8216-BB53B984B034}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{432953DE-073E-450C-8216-BB53B984B034}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1BE29838-3786-4C90-831D-4D0E37BED900}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1BE29838-3786-4C90-831D-4D0E37BED900}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1BE29838-3786-4C90-831D-4D0E37BED900}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1BE29838-3786-4C90-831D-4D0E37BED900}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2E4D6FBF-3587-4E4E-84D4-B76220B53EFF}
+	EndGlobalSection
+EndGlobal
